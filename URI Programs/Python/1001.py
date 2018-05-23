@@ -1,4 +1,4 @@
-a = int(input())
-b = int(input())
+x = int(input())
+y = int(input())
 
-print ('X = ' + str(a+b))
+print ('X = ' + str(x+y))
